@@ -1,0 +1,10 @@
+baseURL = 'https://peer-review-community.github.io/'
+theme = 'hermit-v2'
+title='Peer Review Community'
+[params]
+  github='peer-review-community'
+  homeSubtitle='Our main product is the thought experiment living on github. Someday, the software might get released on this domain...'
+  footerCopyright=''
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/peer-review-community/backend/wiki"
