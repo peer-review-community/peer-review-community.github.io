@@ -1,4 +1,4 @@
-baseURL = 'https://peer-review-community.github.io/'
+baseURL = 'https://peer.review.community/'
 theme = 'hermit-v2'
 title='Peer Review Community'
 [params]
